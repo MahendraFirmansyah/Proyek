@@ -4,7 +4,7 @@ proyek
 * KELOMPOK 3
 
 * anggota:
-    + 1.
+    1.
      - NAMA   :Alfan Noufal Nasruddin
      - NIM    :1841720059
      - KELAS  :TI-2A
